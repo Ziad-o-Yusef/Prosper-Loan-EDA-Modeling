@@ -5,3 +5,4 @@ This project contains two notebooks, one for analysis and one for model
 From here you can see the dataset on kaggle : https://www.kaggle.com/datasets/yousuf28/prosper-loan .
 
 EDA notebook on kaggle : https://www.kaggle.com/code/zeadomar/preliminary-eda-of-prosper-loan/data
+Modeling notebook on kaggle : https://www.kaggle.com/code/zeadomar/prosperloan-modeling-with-more-than-95-acc
